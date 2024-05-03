@@ -1,0 +1,9 @@
+com\janjidan\danfelytrafly\util\Color.class
+com\janjidan\danfelytrafly\listener\PlayerMove.class
+com\janjidan\danfelytrafly\util\applyUpwardForce.class
+com\janjidan\danfelytrafly\command\OnCommand.class
+com\janjidan\danfelytrafly\config\LoadData.class
+com\janjidan\danfelytrafly\config\LoadCofig.class
+com\janjidan\danfelytrafly\DanFelytraFly.class
+com\janjidan\danfelytrafly\util\Elytra.class
+com\janjidan\danfelytrafly\config\LoadLang.class

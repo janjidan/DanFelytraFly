@@ -1,0 +1,9 @@
+perfix: "&7[ &aElytra &7]"
+felytrareload: "重载成功"
+felytrahelp:
+  - "&7Elytra"
+  - "&f指令格式: /danfelytrafly <玩家> <助推力> <角度>"
+  - "&fMade By janjidan"
+felytr_error_statement_1: "&c大小角度取值出现问题"
+felytr_error_statement_2: "&c助推力只能为正整数/默认为1"
+felytr_nofindplayer: "&c找不到玩家"
